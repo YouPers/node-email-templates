@@ -84,7 +84,7 @@ npm install email-templates
 
 **NOTE**: Starting with version 1.1.1 you must install the engines you wish to use, add them to your package.json dependencies.
 ```bash 
-npm install <you template-engine [ejs|jade|swig|handlebars|emblem|dust-linkedin]>
+npm install <your template-engine [ejs|jade|swig|handlebars|emblem|dust-linkedin]>
 ```
 
 ## Quick Start
